@@ -97,7 +97,7 @@
 
   "rich-text#mobile": {
     "props": {
-      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
+      "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
@@ -108,7 +108,8 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
-      "alt": "Coffee Makers Collection"
+      "alt": "Coffee Makers Collection",
+      "maxWidth": "100%"
     }
   },
   
@@ -118,7 +119,8 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
-      "alt": "Coffee Makers Collection"
+      "alt": "Coffee Makers Collection",
+      "maxWidth": "100%"
     }
   }
 }
