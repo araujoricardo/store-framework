@@ -1,6 +1,6 @@
 {
     "slider-layout#home": {
-    "children": ["image#brand1", "image#brand2", "image#brand3", "image#brand4",
+    "children": ["rich-text#slider", "image#brand1", "image#brand2", "image#brand3", "image#brand4",
         "image#brand5","image#brand6"],
     "props": {
       "autoplay": {
@@ -44,5 +44,10 @@
       "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png",
       "maxWidth": "100%"
     }
+  },
+  "rich-text#slider":{
+      "props":{
+          "text": "Oi Ricardo 2"
+      }
   }
 }
